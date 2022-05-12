@@ -1,0 +1,40 @@
+.vert {
+    background-color: green;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blanc {
+    background-color: white;
+}
+
+.vert,
+.rouge,
+.orange,
+.blanc {
+    border: solid 1px;
+    height: 100px;
+    width: 50px;
+    margin-top: 30px;
+    border-radius: 80px;
+    margin-left: 10px;
+}
+
+.tour {
+    width: 100px;
+    border: solid 1px;
+    height: 450px;
+    padding-left: 25px;
+    background-color: black;
+}
+
+.text {
+    text-align: center;
+}
+
